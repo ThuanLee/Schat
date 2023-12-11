@@ -45,6 +45,8 @@ python manage.py runserver 0.0.0.0:8000
 
 Go to `http://127.0.0.1:8000`
 
+![image](https://github.com/ThuanLee/Schat/assets/100220743/fe533670-9176-4f0a-adb1-fc855ce5c7f9)
+
 ## Using docker to run
 
 Make sure you install `docker` and `docker-compose` with version from v2:
