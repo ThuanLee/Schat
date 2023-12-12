@@ -65,3 +65,8 @@ If you want to access to docker container in docker-compose to use some other co
 ```bash
 docker-compose exec <name container> sh
 ```
+
+## Database
+
+![image](https://github.com/ThuanLee/Schat/assets/100220743/b6e261a2-7099-48f7-aed6-cad8a5c287aa)
+
